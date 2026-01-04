@@ -1,7 +1,9 @@
 
 ## :tea: About me <a id="about-me"/>
 <a href="https://i.pinimg.com/736x/ba/f0/68/baf06822eb69a4d1fa2537aedda78724.jpg">
-  <img src="https://i.pinimg.com/736x/ba/f0/68/baf06822eb69a4d1fa2537aedda78724.jpg" align="left" width="140" alt="Orihime Inoue" />
+  <img align="left" width="140"
+       src="https://images.weserv.nl/?url=i.pinimg.com/736x/ba/f0/68/baf06822eb69a4d1fa2537aedda78724.jpg&w=300&mask=roundrect&mrad=50"
+       alt="Orihime Inoue" />
 </a>
 
 - My name is **riceuser** (aliases: **hocha**)
