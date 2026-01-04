@@ -4,7 +4,7 @@
 </div>
 ## :tea: About me <a id="about-me"/>
 
-<a href="https://i.pinimg.com/736x/ba/f0/68/baf06822eb69a4d1fa2537aedda78724.jpg"><img align="left" width="140" 
+<a href="https://i.pinimg.com/736x/ba/f0/68/baf06822eb69a4d1fa2537aedda78724.jpg"><img align="left" width="140" />
 
 - My name is **riceuser** (aliases: **hocha**)
 - Normal human , hate cat
