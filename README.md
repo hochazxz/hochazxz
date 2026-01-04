@@ -1,8 +1,8 @@
 
 ## :tea: About me <a id="about-me"/>
-<a href="https://i.pinimg.com/736x/ba/f0/68/baf06822eb69a4d1fa2537aedda78724.jpg">
+<a href="https://github.com/user-attachments/assets/16588c1b-71c7-42f6-9079-8eff1f303899">
   <img align="left" width="140"
-       src="https://images.weserv.nl/?url=i.pinimg.com/736x/ba/f0/68/baf06822eb69a4d1fa2537aedda78724.jpg&w=300&mask=roundrect&mrad=50"
+       src="https://github.com/user-attachments/assets/16588c1b-71c7-42f6-9079-8eff1f303899&w=300&mask=roundrect&mrad=50"
        alt="Orihime Inoue" />
 </a>
 
