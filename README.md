@@ -10,7 +10,7 @@
 - Normal human, I hate cats.
 - I can code in  **Python**, **Java**, and **C#**.
 - I love **gaming** especially **[Minecraft](https://minecraft.net)**
-- I love **[Orihime Inoue]**(https://bleach.fandom.com/wiki/Orihime_Inoue) :sparkles: from **[Bleach](https://bleach.fandom.com/wiki/Bleach_Wiki)**!
+- I love **[Orihime Inoue](https://bleach.fandom.com/wiki/Orihime_Inoue)** :sparkles: from **[Bleach](https://bleach.fandom.com/wiki/Bleach_Wiki)**!
 
 
 <div align="center">
