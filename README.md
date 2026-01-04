@@ -2,7 +2,7 @@
 ## :tea: About me <a id="about-me"/>
 <a href="https://github.com/user-attachments/assets/16588c1b-71c7-42f6-9079-8eff1f303899">
   <img align="left" width="140"
-       src="https://github.com/user-attachments/assets/16588c1b-71c7-42f6-9079-8eff1f303899&w=300&mask=roundrect&mrad=50"
+       src="https://images.weserv.nl/?url=github.com/user-attachments/assets/16588c1b-71c7-42f6-9079-8eff1f303899&w=300&mask=roundrect&mrad=50"
        alt="Orihime Inoue" />
 </a>
 
