@@ -11,9 +11,3 @@
 - I can code in  **Python**, **Java**, and **C#**.
 - I love **gaming** especially **[Minecraft](https://minecraft.net)**
 - I love **[Orihime Inoue](https://bleach.fandom.com/wiki/Orihime_Inoue)** :sparkles: from **[Bleach](https://bleach.fandom.com/wiki/Bleach_Wiki)**!
-
-
-<div align="center">
-  <img src="https://w.wallhaven.cc/full/je/wallhaven-jexkwm.jpg" width="100%" alt="Banner" />
-</div>
-
